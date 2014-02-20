@@ -1,5 +1,5 @@
 # Versioning of the ROM
- ROM_VERSION := $(PLATFORM_VERSION)-$(shell date -u +%Y%m%d)-$(subst dk_,,$(TARGET_PRODUCT))
+ ROM_VERSION := $(PLATFORM_VERSION)-$(shell date +%Y%m%d)-$(subst dk_,,$(TARGET_PRODUCT))
 
  # Apply it to build.prop
 
