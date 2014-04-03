@@ -10,7 +10,8 @@ on post-fs-data
     chmod 0771 /cache/dalvik-cache
     mkdir /data/.ssh 0750 root shell
 
-    # Run sysinit
+# Run sysinit
+on boot
     start sysinit
 
 # sysinit (/system/etc/init.d)
