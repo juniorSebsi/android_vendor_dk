@@ -8,6 +8,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.notification_sound=regulus.ogg \
     ro.config.alarm_alert=Alarm_Beep_03.ogg
 
+# Selinux
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
+
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/dk/prebuilt/bin/backuptool.sh:system/bin/backuptool.sh \
