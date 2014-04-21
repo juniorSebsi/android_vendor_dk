@@ -1,5 +1,9 @@
 # darkkat Extras
 
+on init
+    export TERMINFO /system/etc/terminfo
+    export TERM linux
+
 on post-fs-data
 
     # Run sysinit
