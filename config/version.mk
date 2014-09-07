@@ -6,5 +6,5 @@
 
  # Apply it to build.prop
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.modversion=DarkKat-$(ROM_VERSION)\
+    ro.dk.version=$(ROM_VERSION)\
     dk.updater.uri=$(GENERAL_UPDATE_URI_PART)$(PRODUCT_UPDATE_URI_PART)
