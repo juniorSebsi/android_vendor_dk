@@ -1,5 +1,5 @@
 # Versioning of the ROM
- ROM_VERSION := $(PLATFORM_VERSION)-$(shell date +%Y%m%d)-$(subst dk_,,$(TARGET_PRODUCT))
+ ROM_VERSION := $(PLATFORM_VERSION)-$(shell date +%Y%m%d)-$(DK_RELEASE_TYPE)-$(subst dk_,,$(TARGET_PRODUCT))
 
 # General part of the OTA update uri
  GENERAL_UPDATE_URI_PART := https://dl.dropboxusercontent.com/s/
