@@ -2,6 +2,12 @@
 PRODUCT_COPY_FILES += \
   vendor/dk/bootanimation.zip:system/media/bootanimation.zip
 
+# General part of the OTA update uri
+ GENERAL_UPDATE_URI_PART := http://get.darkkat-rom.net/
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    dk.updater.uri=$(GENERAL_UPDATE_URI_PART)
+
 # Sounds
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Playa.ogg \
