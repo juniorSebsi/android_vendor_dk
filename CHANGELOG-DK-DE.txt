@@ -1,0 +1,21 @@
+<b><u>4.4.4-20140909:</u></b><br />
+<br />
+<b>Allgemein:</b><br />
+&#8226;&nbsp;Dk Release Typ zum Packet-Namen hinzugef&uuml;gt<br />
+&#8226;&nbsp;Packet-Namen ge&auml;ndert nach:<br />&nbsp;&nbsp;dk-"Version"-"Datum"-"TYP"-"Ger&auml;t" z.B.:<br />&nbsp;&nbsp;(dk-4.4.4-20140909-BETA-hammerhead)<br />
+<br />
+<b>Slim Recents:</b><br />
+&#8226;&nbsp;Die Karten-Hintergundfarbe ist anpassbar<br />
+<br />
+<b>Einstellungen:</b><br />
+&#8226;&nbsp;Mobil-Netzwerkeinstellungen optional in der Stammliste<br />
+&#8226;&nbsp;Dk Release Typ zu "DarkKat-Version" hinzugef&uuml;gt<br />
+&#8226;&nbsp;DarkKat aus "DarkKat-Version entfernt"<br />
+&#8226;&nbsp;Aktueller Changelog hinzugef&uuml;gt<br />
+<br />
+<b>DKUpdater:</b><br />
+&#8226;&nbsp;Entwickler Version/-Updates in Beta Version/-Updates umbenannt<br />
+&#8226;&nbsp;Update und Download Hinweis aktuallisiert<br>(MultiRom Hinweis hinzugef&uuml;gt)<br />
+&#8226;&nbsp;Changelog Funktion gefixt<br />
+&#8226;&nbsp;Installierte Updates werden nicht als installiert angezeigt gefixt<br />
+&#8226;&nbsp;Es werden keine Benachrichtigungen mehr, f&uuml;r bereits installierte Updates, angezeigt.<br />
