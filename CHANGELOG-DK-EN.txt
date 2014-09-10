@@ -1,4 +1,10 @@
-<b><u>4.4.4-20140909:</u></b><br />
+
+<b><u>4.4.4-20140910:</u></b><br />
+<br />
+<b>DKUpdater:</b><br />
+&#8226;&nbsp;Updated translations<br />
+<br />
+<br /><b><u>4.4.4-20140909:</u></b><br />
 <br />
 <b>General:</b><br />
 &#8226;&nbsp;Add dk release type to the package name<br />

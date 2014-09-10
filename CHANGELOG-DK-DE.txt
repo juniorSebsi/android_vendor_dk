@@ -1,3 +1,9 @@
+<b><u>4.4.4-20140910:</u></b><br />
+<br />
+<b>DKUpdater:</b><br />
+&#8226;&nbsp;&Uuml;bersetzungen aktuallisiert<br />
+<br />
+<br />
 <b><u>4.4.4-20140909:</u></b><br />
 <br />
 <b>Allgemein:</b><br />
