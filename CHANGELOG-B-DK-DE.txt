@@ -1,4 +1,10 @@
-<b><u>4.4.4-20140910:</u></b><br />
+<b><u>4.4.4-20140911-BETA:</u></b><br />
+<br />
+<b>vendor dk:</b><br />
+&#8226;&nbsp;Changelog f&uuml;r Beta und Release builds<br />
+<br />
+<br />
+<b><u>4.4.4-20140910-BETA:</u></b><br />
 <br />
 <b>DKUpdater:</b><br />
 &#8226;&nbsp;&Uuml;bersetzungen aktuallisiert<br />

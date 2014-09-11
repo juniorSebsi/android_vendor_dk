@@ -35,9 +35,21 @@ PRODUCT_COPY_FILES += \
     vendor/dk/prebuilt/etc/init.local.rc:root/init.dk.rc
 
 # DarkKat Changelog
+ifneq (,$(findstring RELEASE,$(DK_RELEASE_TYPE)))
 PRODUCT_COPY_FILES += \
-    vendor/dk/CHANGELOG-DK-DE.txt:system/etc/CHANGELOG-DK-DE.txt \
-    vendor/dk/CHANGELOG-DK-EN.txt:system/etc/CHANGELOG-DK-EN.txt
+    vendor/dk/CHANGELOG-R-DK-DE.txt:system/etc/CHANGELOG-DK-DE.txt \
+    vendor/dk/CHANGELOG-R-DK-EN.txt:system/etc/CHANGELOG-DK-EN.txt
+else
+ifneq (,$(findstring release,$(DK_RELEASE_TYPE)))
+PRODUCT_COPY_FILES += \
+    vendor/dk/CHANGELOG-R-DK-DE.txt:system/etc/CHANGELOG-DK-DE.txt \
+    vendor/dk/CHANGELOG-R-DK-EN.txt:system/etc/CHANGELOG-DK-EN.txt
+else
+PRODUCT_COPY_FILES += \
+    vendor/dk/CHANGELOG-B-DK-DE.txt:system/etc/CHANGELOG-DK-DE.txt \
+    vendor/dk/CHANGELOG-B-DK-EN.txt:system/etc/CHANGELOG-DK-EN.txt
+endif
+endif
 
 # Additional packages
 -include vendor/dk/config/packages.mk
