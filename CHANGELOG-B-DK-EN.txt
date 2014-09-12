@@ -1,3 +1,15 @@
+<b><u>4.4.4-201409012-BETA-2:</u></b><br />
+<br />
+<b>DKUpdater:</b><br />
+&#8226;&nbsp;Reverted changelog in english and german<br />
+<br />
+<br />
+<b><u>4.4.4-201409012-BETA:</u></b><br />
+<br />
+<b>DKUpdater:</b><br />
+&#8226;&nbsp;Changelog in english and german<br />
+<br />
+<br />
 <b><u>4.4.4-20140911-BETA:</u></b><br />
 <br />
 <b>vendor dk:</b><br />
@@ -9,7 +21,8 @@
 <b>DKUpdater:</b><br />
 &#8226;&nbsp;Updated translations<br />
 <br />
-<br /><b><u>4.4.4-20140909-BETA:</u></b><br />
+<br />
+<b><u>4.4.4-20140909-BETA:</u></b><br />
 <br />
 <b>General:</b><br />
 &#8226;&nbsp;Add dk release type to the package name<br />
@@ -17,6 +30,10 @@
 <br />
 <b>Slim Recents:</b><br />
 &#8226;&nbsp;Add custom card background color<br />
+<br />
+<b>Volume panel colors:</b><br />
+&#8226;&nbsp;Background<br />
+&#8226;&nbsp;Icon<br />
 <br />
 <b>Settings:</b><br />
 &#8226;&nbsp;Make mobile settings as first-class citizen optional<br />
