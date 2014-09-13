@@ -1,7 +1,13 @@
+<b><u>4.4.4-201409013-BETA:</u></b><br />
+<br />
+<b>Settings:</b><br />
+&#8226;&nbsp;Weathersettings: Renamed weather icons to weather condition image<br />
+<br />
+<br />
 <b><u>4.4.4-201409012-BETA-2:</u></b><br />
 <br />
 <b>DKUpdater:</b><br />
-&#8226;&nbsp;Reverted changelog in english and german<br />
+&#8226;&nbsp;Reverted:Changelog in english and german<br />
 <br />
 <br />
 <b><u>4.4.4-201409012-BETA:</u></b><br />

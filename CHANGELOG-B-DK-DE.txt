@@ -1,3 +1,9 @@
+<b><u>4.4.4-201409013-BETA:</u></b><br />
+<br />
+<b>Einstellungen:</b><br />
+&#8226;&nbsp;Wettereinstellungen: Wetter Symbol in Wetterlage Bild umbenannt<br />
+<br />
+<br />
 <b><u>4.4.4-201409012-BETA-2:</u></b><br />
 <br />
 <b>DKUpdater:</b><br />
