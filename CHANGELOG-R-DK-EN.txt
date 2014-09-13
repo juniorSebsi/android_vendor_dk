@@ -1,1 +1,145 @@
-<b><u>4.4.4-20140910-RELEASE:</u></b><br />
+<b><u>4.4.4-20140913-RELEASE:</u></b><br />
+<br />
+<b>General:</b>
+<br />
+&#8226;&nbsp;Update Android to KTU84Q<br />
+&#8226;&nbsp;Custom bootanimation<br />
+&#8226;&nbsp;Add dk release type to the package name<br />
+&#8226;&nbsp;Change the package name to:<br />
+&nbsp;&nbsp;dk-"version"-"date"-"TYPE"-"device"<br />
+&nbsp;&nbsp;e.g.: dk-4.4.4-20140909-RELEASE-hammerhead<br />
+&#8226;&nbsp;DKUpdater extension for DashClock<br />
+&#8226;&nbsp;Update spanish translations<br />
+<br />
+<b>Boot:</b>
+<br />
+&#8226;&nbsp;Bring back: "Show name of package currently being dex optimized"<br />
+<br />
+<b>Power menu:</b>
+<br />
+&#8226;&nbsp;Add soft reboot to reboot menu<br />
+<br />
+<b>Lockscreen:</b>
+<br />
+&#8226;&nbsp;Option to allow all widgets<br />
+<br />
+<b>Statusbar:</b>
+<br />
+&#8226;&nbsp;Custom airplane mode icon color<br />
+&#8226;&nbsp;Battery text/icon charge animations, and text color fix, (On QS, too):<br />
+&nbsp;&nbsp;&#8226;&nbsp;Charge animation for battery text, (text only)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Charge animation for battery icon, (icon normal and mini)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Charge animation speed, (No animation, Slow, Normal and fast)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Fix: Use text color green for battery status 90% and above, if custom hight color is disabled<br />
+&#8226;&nbsp;Always show the battery status text while charging,<br />
+&nbsp;&nbsp;(except charging animation or battery text is disabled)<br />
+
+<br />
+<b>Statusbar expanded notification drawer:</b>
+<br />
+&#8226;&nbsp;Weather:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Enable/disable weather<br />
+&nbsp;&nbsp;&#8226;&nbsp;Weather style:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather panel<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather text bar<br />
+&nbsp;&nbsp;&#8226;&nbsp;Weather panel top bar<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Location, (on the left)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;3 buttons on the right, (refresh, collapse and weather settings)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Custom icon colors<br />
+&nbsp;&nbsp;&#8226;&nbsp;Weather icons:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Monochrome<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Colored<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;VClouds<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to use a custom location instead of the location service<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to show/hide the location on the panel/bar<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to show/hide the humidity on the panel<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to show/hide the winds on the on the panel<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to show/hide the refresh timestamp on the panel<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to use metric units<br />
+&nbsp;&nbsp;&#8226;&nbsp;Custom refresh interval<br />
+&nbsp;&nbsp;&#8226;&nbsp;Weather panel click actions:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Top bar settings button:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Options<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Click actions<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Colors<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather panel (left panel, condition image and right panel):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Custom click actions (normal- and long click):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Custom app/action<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Refresh weather<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Options<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Click actions<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Weather settings: Colors<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Nothing<br />
+&nbsp;&nbsp;&#8226;&nbsp;Custom background color<br />
+&nbsp;&nbsp;&#8226;&nbsp;Custom background pressed color<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option to colorize all weather condition images<br />
+&nbsp;&nbsp;&#8226;&nbsp;Weather condition image color<br />
+&nbsp;&nbsp;&#8226;&nbsp;Text color<br />
+<br />
+<b>Quick settings:</b>
+<br />
+&#8226;&nbsp;Add remote display tile<br />
+<br />
+<b>SlimRecents:</b>
+<br />
+&#8226;&nbsp;Custom header text color<br />
+&#8226;&nbsp;Add custom card background color<br />
+<br />
+<b>Heads up:</b>
+<br />
+&#8226;&nbsp;Rework:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Remove blacklist and do not disturb feature<br />
+&nbsp;&nbsp;&#8226;&nbsp;Remove enable/disable heads up, (in general)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Remove own custom time out for full screen<br />
+&nbsp;&nbsp;&#8226;&nbsp;Remove Heads up tile<br />
+&nbsp;&nbsp;&#8226;&nbsp;Add a per app based enable/disable heads up feature<br />
+&nbsp;&nbsp;&nbsp;&nbsp;(Heads up is disabled by default for all apps,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;to enable Heads up for an app,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;long click on its notification (in the drawer),<br />
+&nbsp;&nbsp;&nbsp;&nbsp;or at System settings -> Apps -> App details)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Change time out values, (never, 2-, 4-, 6-, 8-, 10-, 20- or 40 seconds)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Add an option to use the choosed time out value for full screen, too<br />
+&nbsp;&nbsp;&#8226;&nbsp;Add Heads up snooze function<br />
+&nbsp;&nbsp;&#8226;&nbsp;Add support for apps with native Heads up support<br />
+<br />
+<b>Volume panel colors:</b>
+<br />
+&#8226;&nbsp;Background<br />
+&#8226;&nbsp;Icon<br />
+<br />
+<b>InCallUI:</b>
+<br />
+&#8226;&nbsp;Non intrusive incall ui: fix glow pad layout<br />
+<br />
+<b>MMS/SMS:</b>
+<br />
+&#8226;&nbsp;Use the nice colorful LetterTileDefaultImages<br />
+&#8226;&nbsp;Use a card-based UI<br />
+&#8226;&nbsp;Add native Heads up support<br />
+&#8226;&nbsp;Disable SplitActionBar<br />
+<br />
+<b>Settings:</b>
+<br />
+&#8226;&nbsp;Darkkat OTA Updates<br />
+&#8226;&nbsp;Status bar expanded background:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Update color picker dialog<br />
+&#8226;&nbsp;Root list:<br />
+&#8226;&nbsp;Custom icon color<br />
+&#8226;&nbsp;Custom category text color<br />
+&#8226;&nbsp;Custom title text color<br />
+&#8226;&nbsp;Custom switch text colors<br />
+&#8226;&nbsp;Make mobile settings as first-class citizen optional<br />
+&#8226;&nbsp;About Phone/Tablet:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Show the dk release type at "DarkKat version"<br />
+&nbsp;&nbsp;&#8226;&nbsp;Don`t display DarkKat at "DarkKat version"<br />
+<br />
+<b>App Updates:</b>
+<br />
+&#8226;&nbsp;Calculator<br />
+&#8226;&nbsp;cLock<br />
+&#8226;&nbsp;CMFileManager<br />
+&#8226;&nbsp;DSPManager<br />
+&#8226;&nbsp;Launcher3<br />
+&#8226;&nbsp;PerformanceControl<br />
