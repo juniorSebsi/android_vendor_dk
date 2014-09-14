@@ -3,5 +3,11 @@
 <b>Slim Recents</b><br />
 &#8226;&nbsp;Added custom header background color<br />
 <br />
+<b><u>DKUpdater:</u></b><br />
+<br />
+&#8226;&nbsp;Add missing spanish translations<br />
+<br />
 <b>Settings:</b><br />
 &#8226;&nbsp;Slim Recents: Added missing german translation<br />
+&#8226;&nbsp;Updated spanish translations<br />
+&#8226;&nbsp;Add missing spanish translations<br />

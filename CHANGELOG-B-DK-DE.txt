@@ -3,5 +3,11 @@
 <b>Slim Recents</b><br />
 &#8226;&nbsp;Anpassbare Farbe der Karten-Kopfzeile<br />
 <br />
+<b><u>DKUpdater:</u></b><br />
+<br />
+&#8226;&nbsp;Fehlende spanische Übersetzungen hinzugefügt<br />
+<br />
 <b>Einstellungen:</b><br />
 &#8226;&nbsp;Slim Recents: Fehlende deutsche Übersetzung hinzugefügt<br />
+&#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
+&#8226;&nbsp;Fehlende spanische Übersetzungen hinzugefügt<br />
