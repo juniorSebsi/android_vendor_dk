@@ -1,55 +1,7 @@
-<b><u>4.4.4-201409013-BETA:</u></b><br />
+<b><u>Next BETA:</u></b><br />
+<br />
+<b>Slim Recents</b><br />
+&#8226;&nbsp;Added custom header background color<br />
 <br />
 <b>Settings:</b><br />
-&#8226;&nbsp;Weathersettings: Renamed weather icons to weather condition image<br />
-<br />
-<br />
-<b><u>4.4.4-201409012-BETA-2:</u></b><br />
-<br />
-<b>DKUpdater:</b><br />
-&#8226;&nbsp;Reverted:Changelog in english and german<br />
-<br />
-<br />
-<b><u>4.4.4-201409012-BETA:</u></b><br />
-<br />
-<b>DKUpdater:</b><br />
-&#8226;&nbsp;Changelog in english and german<br />
-<br />
-<br />
-<b><u>4.4.4-20140911-BETA:</u></b><br />
-<br />
-<b>vendor dk:</b><br />
-&#8226;&nbsp;Changelog for beta and release builds<br />
-<br />
-<br />
-<b><u>4.4.4-20140910-BETA:</u></b><br />
-<br />
-<b>DKUpdater:</b><br />
-&#8226;&nbsp;Updated translations<br />
-<br />
-<br />
-<b><u>4.4.4-20140909-BETA:</u></b><br />
-<br />
-<b>General:</b><br />
-&#8226;&nbsp;Add dk release type to the package name<br />
-&#8226;&nbsp;Change the package name to:<br />&nbsp;&nbsp;dk-"version"-"date"-"TYPE"-"device" e.g.:<br />&nbsp;&nbsp;(dk-4.4.4-20140909-BETA-hammerhead)<br />
-<br />
-<b>Slim Recents:</b><br />
-&#8226;&nbsp;Add custom card background color<br />
-<br />
-<b>Volume panel colors:</b><br />
-&#8226;&nbsp;Background<br />
-&#8226;&nbsp;Icon<br />
-<br />
-<b>Settings:</b><br />
-&#8226;&nbsp;Make mobile settings as first-class citizen optional<br />
-&#8226;&nbsp;Show the dk release type at "DarkKat version"<br />
-&#8226;&nbsp;Don`t display DarkKat at "DarkKat version"<br />
-&#8226;&nbsp;Add current changelog<br />
-<br />
-<b>DKUpdater:</b><br />
-&#8226;&nbsp;Change string Development channel/-updates to Beta channel/-updates<br />
-&#8226;&nbsp;Update download and install notice<br>(Add MultiRom note)<br />
-&#8226;&nbsp;Fix changelog function<br />
-&#8226;&nbsp;Fix installed update don`t shown as installed<br />
-&#8226;&nbsp;Don`t show update notifications if the update is installed<br />
+&#8226;&nbsp;Slim Recents: Added missing german translation<br />
