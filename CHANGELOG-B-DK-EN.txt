@@ -11,7 +11,7 @@
 &#8226;&nbsp;Add a changelog preference:<br />
 &nbsp;&nbsp;&#8226;&nbsp;Open changelog depending on the selected update channel, (release- and beta channel)<br />
 &nbsp;&nbsp;&#8226;&nbsp;Open a dialog to choose the release- or beta changelog to show (all channel)<br />
-&#8226;&nbsp;If the system language is set to german, show a german version of the changelog,
+&#8226;&nbsp;If the system language is set to german, show a german version of the changelog,<br />
 &nbsp;&nbsp;otherwise show the english version
 &#8226;&nbsp;Add missing spanish translations, (needs an update again)<br />
 <br />
