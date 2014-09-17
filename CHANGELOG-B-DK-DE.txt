@@ -1,4 +1,4 @@
-<b><u>Nächste BETA:</u></b><br />
+<b><u>4.4.4-20140917-BETA:</u></b><br />
 <br />
 <b>Slim Recents</b><br />
 &#8226;&nbsp;Anpassbare Farbe der Karten-Kopfzeile<br />
