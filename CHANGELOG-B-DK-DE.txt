@@ -5,7 +5,15 @@
 <br />
 <b><u>DKUpdater:</u></b><br />
 <br />
-&#8226;&nbsp;Fehlende spanische Übersetzungen hinzugefügt<br />
+&#8226;&nbsp;Wechsel von einem Update abhängigen Changelog auf einen allgemeinen<br />
+&#8226;&nbsp;Der Changelog wird immer neu abgerufen damit stets der aktualle angezeigt wird<br />
+&#8226;&nbsp;Der Changelog wird nicht bei einem Klick auf ein verfügbares Update angezeigt<br />
+&#8226;&nbsp;Changelog Preference hinzugefügt:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Der Changelog wird abhängig von der gewählten Update Version angezeigt, (Freigabe- und Beta -Version)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Es wird ein Dialog angezeigt, um den Freigabe- oder Beta Changelog anzuzeigen, (Alle Versionen)<br />
+&#8226;&nbsp;Wenn deutsch als System Sprache gewählt ist, wird die deutsche Version des Changelogs angezigt,
+&nbsp;&nbsp;ansonsten die englische Version
+&#8226;&nbsp;Fehlende spanische Übersetzungen hinzugefügt, (benötigt wieder ein Update)<br />
 <br />
 <b>Einstellungen:</b><br />
 &#8226;&nbsp;Slim Recents: Fehlende deutsche Übersetzung hinzugefügt<br />
