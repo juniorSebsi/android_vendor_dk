@@ -1,22 +1,15 @@
-<b><u>4.4.4-20140917-BETA:</u></b><br />
+<b><u>Next BETA:</u></b><br />
 <br />
-<b>Slim Recents</b><br />
-&#8226;&nbsp;Added custom header background color<br />
-<br />
-<b><u>DKUpdater:</u></b><br />
-<br />
-&#8226;&nbsp;Change from an per update related changelog to a general changelog<br />
-&#8226;&nbsp;Allways fetch the changelog to show the newest changelog<br />
-&#8226;&nbsp;Remove displaying the changelog by clicking on the available updates<br />
-&#8226;&nbsp;Add a changelog preference:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Open changelog depending on the selected update channel, (release- and beta channel)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Open a dialog to choose the release- or beta changelog to show (all channel)<br />
-&#8226;&nbsp;If the system language is set to german, show a german version of the changelog,<br />
-&nbsp;&nbsp;otherwise show the english version<br />
-&#8226;&nbsp;Add a menu entry to show the next planned changes<br />
-&#8226;&nbsp;Add missing spanish translations, (needs an update)<br />
-<br />
-<b>Settings:</b><br />
-&#8226;&nbsp;Slim Recents: Added missing german translation<br />
-&#8226;&nbsp;Updated spanish translations<br />
-&#8226;&nbsp;Add missing spanish translations<br />
+<b><u>Quiet hours (WIP):</u></b><br />
+&nbsp;&nbsp;&#8226;&nbsp;Rework:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Automatic Switch:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Enable Quiet hours if tone is set to silent<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Enable Quiet hours if tone is set to silent or vibrate<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option to enable wifi connection requirement<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option to enable battery charging requirement<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Individual day times<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Show statusbar icon if quiet hours is active<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option to disable system sounds<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Quick settings tile:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Click: turns quiet hours on / off<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Double-click: returns to "timed" mode<br />

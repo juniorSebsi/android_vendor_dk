@@ -1,145 +1,47 @@
-<b><u>4.4.4-20140913-RELEASE:</u></b><br />
+<b><u>4.4.4-20140921-RELEASE:</u></b><br />
 <br />
-<b>Allgemein:</b>
+<b><u>DKUpdater:</u></b><br />
 <br />
-&#8226;&nbsp;Android Update auf KTU84Q<br />
-&#8226;&nbsp;Anpassbare Bootanimation<br />
-&#8226;&nbsp;Dk Release Typ zum Packet-Namen hinzugef&uuml;gt<br />
-&#8226;&nbsp;Packet-Namen ge&auml;ndert nach:<br />
-&nbsp;&nbsp;dk-"Version"-"Datum"-"TYP"-"Ger&auml;t" z.B.:<br />
-&nbsp;&nbsp;dk-4.4.4-20140909-RELEASE-hammerhead<br />
-&#8226;&nbsp;DKUpdater Erweiterung f&uuml;r DashClock<br />
-&#8226;&nbsp;Spanische &Uuml;bersetzungen aktuallisiert<br />
+&#8226;&nbsp;Wechsel von einem Update abhängigen Changelog auf einen allgemeinen<br />
+&#8226;&nbsp;Der Changelog wird jedes mal neu abgerufen, um immer die aktualle Version anzuzeigen<br />
+&#8226;&nbsp;Der Changelog wird nicht bei einem Klick auf ein verfügbares Update angezeigt<br />
+&#8226;&nbsp;Changelog Preference hinzugefügt:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Der Changelog wird abhängig von der gewählten Update Version angezeigt, (Freigabe- und Beta -Version)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Es wird ein Dialog angezeigt, um den Freigabe- oder Beta Changelog anzuzeigen, (Alle Versionen)<br />
+&#8226;&nbsp;Wenn deutsch als System Sprache gewählt ist, wird eine deutsche Version des Changelogs angezeigt,<br />
+&nbsp;&nbsp;ansonsten eine englische Version<br />
+&#8226;&nbsp;Menüeintrag hinzugefügt, um die nächsten geplanten Änderungen anzuzeigen<br />
+&#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
 <br />
-<b>Boot:</b>
+<b><u>Heads up:</u></b><br />
 <br />
-&#8226;&nbsp;Wieder hinzugefügt: "Die Namen der Apps, die gerade dex-optimiert werden, werden angezeigt"<br />
+&#8226;&nbsp;Option um Heads Up an der Unterseite des Bildschirmes anzuzeigen hinzugefügt<br />
 <br />
-<b>Ein/Aus Men&uuml;:</b>
+<b><u>Slim Recents:</u></b><br />
 <br />
-&#8226;&nbsp;Neu starten (soft) zum Neustartmen&uuml; hinzugef&uuml;gt<br />
+&#8226;&nbsp;Option um den derzeitigen Task anzuzeigen hinzugefügt:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Zeige/verstecke den derzeitigen Task<br />
+&nbsp;&nbsp;&#8226;&nbsp;Der derzeitigen Task wird immer eingeklappt angezeigt<br />
+&#8226;&nbsp;Anpassbare Farbe der Karten-Kopfzeile<br />
 <br />
-<b>Sperrbildschirm:</b>
+<b><u>Display:</u></b><br />
 <br />
-&#8226;&nbsp;Option um alle Widgets zu erlauben<br />
+&#8226;&nbsp;Anpassbare Display aus Animationen<br />
 <br />
-<b>Statusleiste:</b>
+<b><u>Einstellungen:</u></b><br />
 <br />
-&#8226;&nbsp;Anpassbare Flugmodus Symbol Farbe<br />
-&#8226;&nbsp;Akku Text/Symbol Ladeanimation, und Text Farben Fix, (auch QS):<br />
-&nbsp;&nbsp;&#8226;&nbsp;Ladeanimation f&uuml;r Akku Text, (Nur Text)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Ladeanimation f&uuml;r Akku Symbol, (normal und mini)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Ladeanimationsgeschwindigkeit, (Keine Animation, Langsam, Normal und Schnell)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Fix: Grüne Text Farbe bei Akku Status 90% und darüber, wenn eigene Farbe für hohen Akkustand deaktiviert ist<br />
-&#8226;&nbsp;Der Akkustatus Text wird w&auml;hrend des Ladevorgangs immer angezeigt,<br />
-&nbsp;&nbsp;(au&szlig;er Ladeanimation oder Statustext ist deaktiviert)<br />
-
-<br />
-<b>Erweiterte Statusleiste, Benachrichtigungsanzeige:</b>
-<br />
-&#8226;&nbsp;Wetter:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetter Aktivieren/deaktivieren<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetter Style:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Feld<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Textleiste<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetter Feld, obere Leiste:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Standort, (links)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;3 Schaltfl&auml;chen links, (aktuallisieren, einklappen und Wetter Einstellungen)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Symbol Farben<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetter Symbole:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Einfarbig<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Farbig<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;VClouds<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um einen eigenen Standort, anstatt dem Standort-Service, zu benutzen<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um den Standort in Feld/Leiste anzuzeigen/zu verstecken<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um die Luftfeuchtigkeit im Feld anzuzeigen/zu verstecken<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um den Wind im Feld anzuzeigen/zu verstecken<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um den Aktualliserungs Zeitpunkt im Feld anzuzeigen/zu verstecken<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um metrische Einheiten zu verwenden<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbarer Aktuallisierungs Interval<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetter Feld Klick Aktionen:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Einstellungen Schaltflächer der oberen Leiste:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Optionen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Klick Aktionen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Farben<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Feld (linkes Feld, Wetterlage Bild und rechtes Feld):<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Klick Aktionen (normal- und Lang-Klick):<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Eigene App/Aktion<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter aktuallisieren<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Optionen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Klick Aktionen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Wetter Einstellungen: Farben<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Nichts<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Hintergrund Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Hintergrund Farbe, (gedr&uuml;ckt)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um alle Wetterlage Bilder einzuf&auml;rben<br />
-&nbsp;&nbsp;&#8226;&nbsp;Wetterlage Bild Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Text Farbe<br />
-<br />
-<b>Schnelleinstellungen:</b>
-<br />
-&#8226;&nbsp;Kachel f&uuml;r Bildschirmübertragung hinzugef&uuml;gt<br />
-<br />
-<b>SlimRecents:</b>
-<br />
-&#8226;&nbsp;Anpassbare Farbe des Kopfzeilen Textes<br />
-&#8226;&nbsp;Anpassbare Farbe des Karten Hintergrundes<br />
-<br />
-<b>Heads up:</b>
-<br />
-&#8226;&nbsp;&Uuml;berarbeitet:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Blacklist und Bitte nicht st&ouml;ren Funktion entfernt<br />
-&nbsp;&nbsp;&#8226;&nbsp;Heads up aktivieren/deaktivieren entfernt, (im allgemeinen)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Eigenes Zeitlimit f&uuml;r Vollbild entfernt<br />
-&nbsp;&nbsp;&#8226;&nbsp;Heads up Kachel (QS) entfernt<br />
-&nbsp;&nbsp;&#8226;&nbsp;Heads up kann individuell f&uuml;r jede App aktiviert/deaktiviert werden<br />
-&nbsp;&nbsp;&nbsp;&nbsp;(Heads up ist standardm&uuml;&szlig;ig f&uuml;r jede App deaktiviert,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;um Heads up f&uuml;r eine App zu aktivieren,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Lang-Klick auf die Benachrichtigung,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;oder unter: System Einstellungen -> Apps -> App Details)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Zeitlimits, (nie, 2-, 4-, 6-, 8-, 10-, 20- oder 40 Sekunden)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um das Zeitlimit auch f&uuml;r den Vollbild Modus zu benutzen<br />
-&nbsp;&nbsp;&#8226;&nbsp;Heads up Schlummer Funktion hinzugef&uuml;gt<br />
-&nbsp;&nbsp;&#8226;&nbsp;Unterst&uuml;tzung f&uuml;r Apps mit nativer Heads up Unterst&uuml;tzung<br />
-<br />
-<b>Lautst&auml;rkefeld Farben:</b>
-<br />
-&#8226;&nbsp;Hintergrund<br />
-&#8226;&nbsp;Symbol<br />
-<br />
-<b>InCallUI:</b>
-<br />
-&#8226;&nbsp;Zurückhaltender Modus: Glow-Pad Layout gefixt<br />
-<br />
-<b>MMS/SMS:</b>
-<br />
-&#8226;&nbsp;Die Standard Kontakt Symbole aus der Kontakte App hinzugef&uuml;gt<br />
-&#8226;&nbsp;Karten basierte Oberfläche hinzugefügt<br />
-&#8226;&nbsp;Native Heads up Unterst&uuml;tzung hinzugef&uuml;gt<br />
-&#8226;&nbsp;Actionbar wird nicht geteilt<br />
-<br />
-<b>Einstellungen:</b>
-<br />
-&#8226;&nbsp;Darkkat OTA Updates<br />
-&#8226;&nbsp;Erweiterte Statusleiste, Hintergrund:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Color Picker Dialog Update<br />
-&#8226;&nbsp;Stammliste:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Symbol Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Kategorie Text Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Titel Text Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Anpassbare Switch Text Farbe<br />
-&nbsp;&nbsp;&#8226;&nbsp;Mobile Netzwerke optional in der Stammliste<br />
-&#8226;&nbsp;&Uuml;ber das Telefon/Tablet:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Dk Release Typ zu "DarkKat-Version" hinzugef&uuml;gt<br />
-&nbsp;&nbsp;&#8226;&nbsp;DarkKat aus "DarkKat-Version entfernt"<br />
-<br />
-<b>App Updates:</b>
-<br />
-&#8226;&nbsp;Calculator<br />
-&#8226;&nbsp;cLock<br />
-&#8226;&nbsp;CMFileManager<br />
-&#8226;&nbsp;DSPManager<br />
-&#8226;&nbsp;Launcher3<br />
-&#8226;&nbsp;PerformanceControl<br />
+&#8226;&nbsp;App Paket Name wird im "App Info" Screen angezeigt<br />
+&#8226;&nbsp;Preferences verschoben:<br />
+&nbsp;&nbsp;&#8226;&nbsp;(Oberfläche) Mehr...:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Listenansicht nach Display Einstellungen<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Lautstärke Dialogfeld nach Töne Einstellungen<br />
+&nbsp;&nbsp;&#8226;&nbsp;Töne Einstellungen:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Lautstärke-Feld nach Töne Einstellungen -> Lautstärke Dialogfeld<br />
+&#8226;&nbsp;Display Einstellungen:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Listenansicht in Animationen umbenannt<br />
+&#8226;&nbsp;Deutsche Übersetzung gefixt:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Einstellungen -> Stammliste -> Account Symbole<br />
+&#8226;&nbsp;Slim Recents:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Fehlende deutsche Übersetzung hinzugefügt<br />
+&#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
+&#8226;&nbsp;Deutsche Übersetzungen aktuallisiert<br />
