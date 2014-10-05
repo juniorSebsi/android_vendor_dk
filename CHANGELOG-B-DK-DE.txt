@@ -1,15 +1,21 @@
-<b><u>Nächste BETA:</u></b><br />
+<b><u>4.4.4-20141005-BETA:</u></b><br />
 <br />
-<b><u>Ruhige Stunden (WIP):</u></b><br />
-&nbsp;&nbsp;&#8226;&nbsp;Überarbeitung:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Automatischer Wechsel:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Ruhige Stunden wird aktiviert, wenn die Lautstärke auf lautlos gesetzt wurde<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Ruhige Stunden wird aktiviert, wenn die Lautstärke auf lautlos oder Vibration gesetzt wurde<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option um eine Wifi Verbindung für die Ruhigen Stunden vorrauszusetzen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option um das Laden des Akkus für die Ruhigen Stunden vorrauszusetzen<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Individuale Tasgeszeiten<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Ein Satusleisten Symbol wird angezeigt, wenn Ruhige Stunden aktiv ist<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Option um die System Töne zu deaktivieren<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Schnelleinstellungs Kachel:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Klick: schaltet Ruhige Stunden ein / aus<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;Doppelklick: kehrt zum zeitbasierten Modus zurück<br />
+<b><u>Bildschirmsperre:</u></b><br />
+&#8226;&nbsp;Unterstützung für variable Muster Größen hinzugefügt<br />
+<br />
+<b><u>Heads Up:</u></b><br />
+&#8226;&nbsp;Anpassbare Farben und Transparenz:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Hintergrund, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Hintergrund gedrückt, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Text<br />
+&nbsp;&nbsp;&#8226;&nbsp;Symbole, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8226;&nbsp;Option um das Einzufärben des Benachrichtigungs Symbols zu aktivieren/deaktivieren<br />
+<br />
+<b><u>Einstellungen:</u></b><br />
+&#8226;&nbsp;Spanische Übersetzungen korrigiert<br />
+&#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
+<br />
+<b><u>Apps:</u></b><br />
+&#8226;&nbsp;Updates:<br />
+&nbsp;&nbsp;&#8226;&nbsp;Taschenrechner, (CM)<br />
+&nbsp;&nbsp;&#8226;&nbsp;CMFileManager, (CM)<br />
