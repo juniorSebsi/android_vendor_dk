@@ -1,21 +1,29 @@
-<b><u>4.4.4-20141005-BETA:</u></b><br />
+<b><u>4.4.4-20141010-BETA:</u></b><br />
 <br />
 <b><u>Bildschirmsperre:</u></b><br />
 &#8226;&nbsp;Unterstützung für variable Muster Größen hinzugefügt<br />
 <br />
 <b><u>Heads Up:</u></b><br />
 &#8226;&nbsp;Anpassbare Farben und Transparenz:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Hintergrund, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Hintergrund gedrückt, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Text<br />
-&nbsp;&nbsp;&#8226;&nbsp;Symbole, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option um das Einzufärben des Benachrichtigungs Symbols zu aktivieren/deaktivieren<br />
+&nbsp;&nbsp;&#8727;&nbsp;Hintergrund, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Hintergrund gedrückt, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Text<br />
+&nbsp;&nbsp;&#8727;&nbsp;Symbole, (Heads Up und Schlummern Schaltfläche)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Option um das Einzufärben des Benachrichtigungs Symbols zu aktivieren/deaktivieren<br />
 <br />
 <b><u>Einstellungen:</u></b><br />
+&#8226;&nbsp;Preferences verschoben:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Neue Kopfzeile Tasten<br />
+&nbsp;&nbsp;&#8727;&nbsp;Kopfzeile Menüs & Felder entfernt<br />
+&nbsp;&nbsp;&#8727;&nbsp;Menüs & Felder/Ein-/Aus Menü nach Tasten verschoben<br />
+&nbsp;&nbsp;&#8727;&nbsp;Menüs & Felder/Letzte Apps nach Mehr... verschoben<br />
+&nbsp;&nbsp;&#8727;&nbsp;Töne/Lautstärke Tasten Musik Kontrolle nach Tasten verschoben<br />
+&nbsp;&nbsp;&#8727;&nbsp;Display/Bildschirm aufwecken (Lautstärke Tasten) nach Tasten verschoben<br />
+&nbsp;&nbsp;&#8727;&nbsp;Display/Bildschirm aufwecken (Ladegerät) nach Akku verschoben<br />
 &#8226;&nbsp;Spanische Übersetzungen korrigiert<br />
 &#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
 <br />
 <b><u>Apps:</u></b><br />
 &#8226;&nbsp;Updates:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Taschenrechner, (CM)<br />
-&nbsp;&nbsp;&#8226;&nbsp;CMFileManager, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />

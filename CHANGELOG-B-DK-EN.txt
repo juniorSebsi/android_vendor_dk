@@ -1,21 +1,29 @@
-<b><u>4.4.4-20141005-BETA:</u></b><br />
+<b><u>4.4.4-20141010-BETA:</u></b><br />
 <br />
 <b><u>Lockscreen:</u></b><br />
 &#8226;&nbsp;Add support for variable size pattern<br />
 <br />
 <b><u>Heads Up:</u></b><br />
 &#8226;&nbsp;Custom colors and transparency:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Background, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Background pressed, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Text<br />
-&nbsp;&nbsp;&#8226;&nbsp;Icon, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8226;&nbsp;Option to enable/disable colorizing the notification icon<br />
+&nbsp;&nbsp;&#8727;&nbsp;Background, (heads up and snooze button)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Background pressed, (heads up and snooze button)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Text<br />
+&nbsp;&nbsp;&#8727;&nbsp;Icon, (heads up and snooze button)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Option to enable/disable colorizing the notification icon<br />
 <br />
 <b><u>Settings:</u></b><br />
+&#8226;&nbsp;Move preferences:<br />
+&nbsp;&nbsp;&#8727;&nbsp;New settings header buttons<br />
+&nbsp;&nbsp;&#8727;&nbsp;Removed settings header Menus & panels<br />
+&nbsp;&nbsp;&#8727;&nbsp;Moved Menus & panels/Power menu to Buttons<br />
+&nbsp;&nbsp;&#8727;&nbsp;Moved Menus & panels/Recent apps to More... (Category Interface)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Moved Sounds/Volume button music controls to Buttons<br />
+&nbsp;&nbsp;&#8727;&nbsp;Moved Display/Volume wake to Buttons<br />
+&nbsp;&nbsp;&#8727;&nbsp;Moved Display/wake on plug to Battery<br />
 &#8226;&nbsp;Fixed spanish translations<br />
 &#8226;&nbsp;Updated spanish translations<br />
 <br />
 <b><u>Apps:</u></b><br />
 &#8226;&nbsp;Updates:<br />
-&nbsp;&nbsp;&#8226;&nbsp;Taschenrechner, (CM)<br />
-&nbsp;&nbsp;&#8226;&nbsp;CMFileManager, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
