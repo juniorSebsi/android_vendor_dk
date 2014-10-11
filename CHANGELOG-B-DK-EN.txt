@@ -1,4 +1,4 @@
-<b><u>4.4.4-20141010-BETA:</u></b><br />
+<b><u>4.4.4-20141011-BETA:</u></b><br />
 <br />
 <b><u>Lockscreen:</u></b><br />
 &#8226;&nbsp;Add support for variable size pattern<br />
