@@ -1,29 +1,40 @@
-<b><u>4.4.4-20141011-BETA:</u></b><br />
+<b><u>4.4.4-20141025-BETA:</u></b><br />
 <br />
-<b><u>Lockscreen:</u></b><br />
-&#8226;&nbsp;Add support for variable size pattern<br />
+<b><u>Status bar:</u></b><br />
+&#8226;&nbsp;Battery status: Fix frame transparency:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Always use a transparency of 60% for the frame color,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;(Icon frame, ring frame and text only frame (charge animation),<br />
+&nbsp;&nbsp;&nbsp;&nbsp;to match with the network icons and new battery bar frame.<br />
+&#8226;&nbsp;Battery bar: Option to show the frame<br />
+&#8226;&nbsp;Battery bar: Change color of low battery status from ffff0000 to ffff3300 (brighter red)<br />
+&#8226;&nbsp;Double tap to sleep<br />
+&#8226;&nbsp;Clock improvements<br />
+&nbsp;&nbsp;(no visible changes)<br />
+&#8226;&nbsp;Option to show the clock on lockscreen<br />
 <br />
-<b><u>Heads Up:</u></b><br />
-&#8226;&nbsp;Custom colors and transparency:<br />
-&nbsp;&nbsp;&#8727;&nbsp;Background, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Background pressed, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Text<br />
-&nbsp;&nbsp;&#8727;&nbsp;Icon, (heads up and snooze button)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Option to enable/disable colorizing the notification icon<br />
+<b><u>Navigation bar:</u></b><br />
+&#8226;&nbsp;Text navigation<br />
+<br />
+<b><u>Status/Navigation bar background:</u></b><br />
+&#8226;&nbsp;Don`t restart SystemUI on color change<br />
+&#8226;&nbsp;The color for the opaque status should always be 100% opaque<br />
 <br />
 <b><u>Settings:</u></b><br />
+&#8226;&nbsp;Battery status: Frame:<br />
+&nbsp;&nbsp;&#8727;&nbsp;update the custom frame color "checkbox" summary<br />
+&nbsp;&nbsp;&#8727;&nbsp;update the custom frame color "color picker" title<br />
+&#8226;&nbsp;Battery bar: (Position) Rename "Statusbar" to "Top of statusbar"<br />
 &#8226;&nbsp;Move preferences:<br />
-&nbsp;&nbsp;&#8727;&nbsp;New settings header buttons<br />
-&nbsp;&nbsp;&#8727;&nbsp;Removed settings header Menus & panels<br />
-&nbsp;&nbsp;&#8727;&nbsp;Moved Menus & panels/Power menu to Buttons<br />
-&nbsp;&nbsp;&#8727;&nbsp;Moved Menus & panels/Recent apps to More... (Category Interface)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Moved Sounds/Volume button music controls to Buttons<br />
-&nbsp;&nbsp;&#8727;&nbsp;Moved Display/Volume wake to Buttons<br />
-&nbsp;&nbsp;&#8727;&nbsp;Moved Display/wake on plug to Battery<br />
-&#8226;&nbsp;Fixed spanish translations<br />
+&nbsp;&nbsp;&#8727;&nbsp;Status bar: New preference screen "Gestures"<br />
+&nbsp;&nbsp;&#8727;&nbsp;Status bar: Moved "Brightness control" to "Gestures"<br />
+&#8226;&nbsp;Status/Navigation bar background:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Fixed the color preview and summary after color was fixed<br />
+&#8226;&nbsp;Statusbar, Gestures: Update "Brightness control" checkbox on the fly:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Enable/disable and update the summary on automatic brightness mode change<br />
 &#8226;&nbsp;Updated spanish translations<br />
 <br />
 <b><u>Apps:</u></b><br />
 &#8226;&nbsp;Updates:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;LockClock, (CM)<br />

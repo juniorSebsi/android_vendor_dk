@@ -1,29 +1,41 @@
-<b><u>4.4.4-20141011-BETA:</u></b><br />
+<b><u>4.4.4-20141025-BETA:</u></b><br />
 <br />
-<b><u>Bildschirmsperre:</u></b><br />
-&#8226;&nbsp;Unterstützung für variable Muster Größen hinzugefügt<br />
+<b><u>Statusleiste:</u></b><br />
+&#8226;&nbsp;Akkustatus: Rahmen Transparenz angepasst:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Es wird immer eine Transparenz von 60% für die Rahmen Farbe benutzt,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;(Symbol Rahmen, Ring Rahmen und Nur Text Rahmen (Ladeanimation),<br />
+&nbsp;&nbsp;&nbsp;&nbsp;um den Netzwerk Symbol- und dem neuen Akkuleisten Rahmen zu entsprechen.<br />
+&#8226;&nbsp;Akkuleiste: Option um den Hintergrund anzuzeigen<br />
+&#8226;&nbsp;Akkuleiste: Farbe bei niedrigem Akkustand von ffff0000 nach ffff3300 (helleres rot) geändert<br />
+&#8226;&nbsp;Standby durch Doppeltes Tippen<br />
+&#8226;&nbsp;Uhr: Verbesserungen,<br />
+&nbsp;&nbsp;(keine sichtbaren Änderungen)<br />
+&#8226;&nbsp;Option um die Uhr auf dem Sperrbildschirm anzuzeigen<br />
 <br />
-<b><u>Heads Up:</u></b><br />
-&#8226;&nbsp;Anpassbare Farben und Transparenz:<br />
-&nbsp;&nbsp;&#8727;&nbsp;Hintergrund, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Hintergrund gedrückt, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Text<br />
-&nbsp;&nbsp;&#8727;&nbsp;Symbole, (Heads Up und Schlummern Schaltfläche)<br />
-&nbsp;&nbsp;&#8727;&nbsp;Option um das Einzufärben des Benachrichtigungs Symbols zu aktivieren/deaktivieren<br />
+<b><u>Navigationsleiste:</u></b><br />
+&#8226;&nbsp;Textnavigation<br />
+<br />
+<b><u>Status/Navigationsleisten Hintergrund:</u></b><br />
+&#8226;&nbsp;Bei einem Farbwechsel wird die SystemUI nicht neugestartet<br />
+&#8226;&nbsp;Die Farbe für den undurchsichtigen Status sollte immer 100% undurchsichtig sein<br />
 <br />
 <b><u>Einstellungen:</u></b><br />
-&#8226;&nbsp;Preferences verschoben:<br />
-&nbsp;&nbsp;&#8727;&nbsp;Neue Kopfzeile Tasten<br />
-&nbsp;&nbsp;&#8727;&nbsp;Kopfzeile Menüs & Felder entfernt<br />
-&nbsp;&nbsp;&#8727;&nbsp;Menüs & Felder/Ein-/Aus Menü nach Tasten verschoben<br />
-&nbsp;&nbsp;&#8727;&nbsp;Menüs & Felder/Letzte Apps nach Mehr... verschoben<br />
-&nbsp;&nbsp;&#8727;&nbsp;Töne/Lautstärke Tasten Musik Kontrolle nach Tasten verschoben<br />
-&nbsp;&nbsp;&#8727;&nbsp;Display/Bildschirm aufwecken (Lautstärke Tasten) nach Tasten verschoben<br />
-&nbsp;&nbsp;&#8727;&nbsp;Display/Bildschirm aufwecken (Ladegerät) nach Akku verschoben<br />
-&#8226;&nbsp;Spanische Übersetzungen korrigiert<br />
+&#8226;&nbsp;Akkustatus: Rahmen:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Zusammenfassung der Rahmen Farbe "Checkbox" akuallisiert<br />
+&nbsp;&nbsp;&#8727;&nbsp;Titel des Rahmen Farbe "Color Pickers" akuallisiert<br />
+&#8226;&nbsp;Akkuleiste: (Position) "Statusleiste" in "Über der Statusleiste" umbenannt<br />
+&#8226;&nbsp;Einstellungen verschoben:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Statusleiste: Neuer Einstellungsbildschirm "Gesten"<br />
+&nbsp;&nbsp;&#8727;&nbsp;Statusleiste: "Helligkeitskontrolle" nach "Gesten" verschoben<br />
+&#8226;&nbsp;Status/Navigationsleisten Hintergrund:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Farbvorschau und Farbtext korrigiert, nachdem die Farbe korrigiert wurde<br />
+&#8226;&nbsp;Statusleiste, Gesten: "Helligkeitskontrolle" Checkbox spontan aktuallisieren:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Bei Änderung des Automatischen Helligkeitsmodus wird der Beschreibungstext aktuallisiert,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;und die Checkbox aktiviert/deaktiviert<br />
 &#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
 <br />
 <b><u>Apps:</u></b><br />
 &#8226;&nbsp;Updates:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;LockClock, (CM)<br />
