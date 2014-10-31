@@ -1,6 +1,15 @@
-<b><u>4.4.4-20141025-BETA:</u></b><br />
+<b><u>4.4.4-20141101-BETA:</u></b><br />
+<br />
+<b><u>Ein/Aus Menu:</u></b><br />
+&#8226;&nbsp;Erweiterter Neustart:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Neustarten (Soft) in Schneller Neustart umbenannt<br />
+<br />
+<b><u>Schnelleinstellungen:</u></b><br />
+&#8226;&nbsp;Netzwerk Kachel: xxhdpi Symbole korrigiert<br />
 <br />
 <b><u>Statusleiste:</u></b><br />
+&#8226;&nbsp;Benachrichtigungszähler:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Wechsel auf CyanogenMods Benachrichtigungszähler Symbole<br />
 &#8226;&nbsp;Akkustatus: Rahmen Transparenz angepasst:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Es wird immer eine Transparenz von 60% für die Rahmen Farbe benutzt,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;(Symbol Rahmen, Ring Rahmen und Nur Text Rahmen (Ladeanimation),<br />
@@ -35,7 +44,10 @@
 &#8226;&nbsp;Spanische Übersetzungen aktuallisiert<br />
 <br />
 <b><u>Apps:</u></b><br />
+&#8226;&nbsp;Mms:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Der Benachrichtigungszähler wird bei mehreren Benachrichtigungen in der Statusleiste angezeigt<br />
 &#8226;&nbsp;Updates:<br />
-&nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Calculator, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;LockClock, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;PerformanceControl, (OmniRom)<br />

@@ -1,6 +1,15 @@
-<b><u>4.4.4-20141025-BETA:</u></b><br />
+<b><u>4.4.4-20141101-BETA:</u></b><br />
+<br />
+<b><u>Power menu:</u></b><br />
+&#8226;&nbsp;Advanced reboot:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Rename Reboot (soft) to Quick reboot<br />
+<br />
+<b><u>Quicksettings:</u></b><br />
+&#8226;&nbsp;Network tile: Fixed xxhdpi icons<br />
 <br />
 <b><u>Status bar:</u></b><br />
+&#8226;&nbsp;Notification count:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Use CyanogenMods notification count overlay drawables<br />
 &#8226;&nbsp;Battery status: Fix frame transparency:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Always use a transparency of 60% for the frame color,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;(Icon frame, ring frame and text only frame (charge animation),<br />
@@ -34,7 +43,10 @@
 &#8226;&nbsp;Updated spanish translations<br />
 <br />
 <b><u>Apps:</u></b><br />
+&#8226;&nbsp;Mms:<br />
+&nbsp;&nbsp;&#8727;&nbsp;Der Benachrichtigungszähler wird bei mehreren Benachrichtigungen in der Statusleiste angezeigt<br />
 &#8226;&nbsp;Updates:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;LockClock, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Leistung (PerformanceControl), (OmniRom)<br />
