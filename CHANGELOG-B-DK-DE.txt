@@ -47,7 +47,7 @@
 &#8226;&nbsp;Mms:<br />
 &nbsp;&nbsp;&#8727;&nbsp;Der Benachrichtigungszähler wird bei mehreren Benachrichtigungen in der Statusleiste angezeigt<br />
 &#8226;&nbsp;Updates:<br />
-&nbsp;&nbsp;&#8727;&nbsp;Calculator, (CM)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Taschenrechner, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;CMFileManager, (CM)<br />
 &nbsp;&nbsp;&#8727;&nbsp;LockClock, (CM)<br />
-&nbsp;&nbsp;&#8727;&nbsp;PerformanceControl, (OmniRom)<br />
+&nbsp;&nbsp;&#8727;&nbsp;Leistung (PerformanceControl), (OmniRom)<br />
