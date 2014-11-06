@@ -11,10 +11,10 @@ PRODUCT_COPY_FILES += \
 #     dk.changelog.uri=$(GENERAL_CHANGELOG_URI_PART)
 
 # Sounds
-# PRODUCT_PROPERTY_OVERRIDES += \
-#     ro.config.ringtone=Playa.ogg \
-#     ro.config.notification_sound=regulus.ogg \
-#     ro.config.alarm_alert=Alarm_Beep_03.ogg
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.ringtone=Playa.ogg \
+    ro.config.notification_sound=regulus.ogg \
+    ro.config.alarm_alert=Alarm_Beep_03.ogg
 
 # Selinux
 # PRODUCT_PROPERTY_OVERRIDES += \
