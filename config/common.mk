@@ -17,8 +17,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.alarm_alert=Alarm_Beep_03.ogg
 
 # Selinux
-# PRODUCT_PROPERTY_OVERRIDES += \
-#     ro.build.selinux=1
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.selinux=1
 
 # Backup Tool
 PRODUCT_COPY_FILES += \
