@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/dk/prebuilt/bin/backuptool.sh:system/bin/backuptool.sh \
     vendor/dk/prebuilt/bin/backuptool.functions:system/bin/backuptool.functions \
     vendor/dk/prebuilt/bin/50-hosts.sh:system/addon.d/50-hosts.sh \
-    vendor/dk/prebuilt/bin/97-bootanimation.sh:system/addon.d/97-bootanimation.sh \
     vendor/dk/prebuilt/bin/blacklist:system/addon.d/blacklist
 
 # init.d support
