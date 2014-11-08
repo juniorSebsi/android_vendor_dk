@@ -28,12 +28,12 @@ PRODUCT_COPY_FILES += \
     vendor/dk/prebuilt/bin/blacklist:system/addon.d/blacklist
 
 # init.d support
-# PRODUCT_COPY_FILES += \
-#         vendor/dk/prebuilt/bin/sysinit:system/bin/sysinit
+PRODUCT_COPY_FILES += \
+    vendor/dk/prebuilt/bin/sysinit:system/bin/sysinit
 
 # Init script file with DarkKat extras
-# PRODUCT_COPY_FILES += \
-#     vendor/dk/prebuilt/etc/init.local.rc:root/init.dk.rc
+PRODUCT_COPY_FILES += \
+    vendor/dk/prebuilt/etc/init.local.rc:root/init.dk.rc
 
 # DarkKat Changelog
 # ifneq (,$(findstring RELEASE,$(DK_RELEASE_TYPE)))
