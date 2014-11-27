@@ -15,9 +15,10 @@
         <item>power</item>
         <item>reboot</item>
         <item>airplane</item>
-        <item>silent</item>
-        <item>bugreport</item>
         <item>users</item>
+        <item>settings</item>
+        <item>lockdown</item>
+        <item>silent</item>
     </string-array>
 
 </resources>
