@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
 # endif
 
 # Additional packages
-# -include vendor/dk/config/packages.mk
+-include vendor/dk/config/packages.mk
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/dk/overlay
 
