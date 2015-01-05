@@ -1,7 +1,3 @@
-# Bootanimation
-PRODUCT_COPY_FILES += \
-  vendor/dk/bootanimation.zip:system/media/bootanimation.zip
-
 # General parts of the OTA update and changelog uri
 # GENERAL_UPDATE_URI_PART := http://get.darkkat-rom.net/
 # GENERAL_CHANGELOG_URI_PART := http://changelog.darkkat-rom.net/
