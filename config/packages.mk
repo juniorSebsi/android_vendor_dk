@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
     AudioFX \
     CMFileManager \
     Eleven \
-    LockClock
+    LockClock \
+    Terminal
